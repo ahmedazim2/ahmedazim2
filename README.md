@@ -5,10 +5,10 @@ I'm Ahmed Azim
 💻 Passionate about building scalable systems, solving complex problems, and exploring the intersection of technology and finance.
 
 💼 Current Role:
-📊 Quantitative Development Intern – Building algorithmic trading tools and optimizing financial models.
+- 📊 Quantitative Development Intern – Building algorithmic trading tools and optimizing financial models.
 
 🔙 Previous Experience:
-🖥️ Frontend Development Intern – Developed user-friendly interfaces and collaborated on cross-functional teams to deliver seamless web applications.
+- 🖥️ Frontend Development Intern – Developed user-friendly interfaces and collaborated on cross-functional teams to deliver seamless web applications.
 
 🚀 Skills & Interests:
 
