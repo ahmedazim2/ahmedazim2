@@ -5,9 +5,10 @@
 💻 Passionate about building scalable systems, solving complex problems, and exploring the intersection of technology and finance.
 
 ### 💼 Current Role:
-- 📊 Quantitative Development Intern – Building algorithmic trading tools and optimizing financial models.
+- 📊 Trading Systems Engineer – Building crawlers, optimizing strategies, and maintaining PMS.
 
 ### 🔙 Previous Experience:
+- 🖥️ Fullstack Developer Intern - Developed complex backend systems for clinic-patient interactions, implemented UI using Quasar and Vue.
 - 🖥️ Frontend Development Intern – Developed user-friendly interfaces and collaborated on cross-functional teams to deliver seamless web applications.
 
 ### 🚀 Skills & Interests:
