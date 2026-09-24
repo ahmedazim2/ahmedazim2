@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### I'm Ahmed Azim
-- 🎓 Second-year Computer Science student at City University of Hong Kong (CityU) with a minor in Finance.
+- 🎓 final-year Computer Science student at City University of Hong Kong (CityU) with a minor in Finance.
 💻 Passionate about building scalable systems, solving complex problems, and exploring the intersection of technology and finance.
 
 ### 💼 Current Role:
